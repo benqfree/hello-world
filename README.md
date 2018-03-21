@@ -1,5 +1,5 @@
 # hello-world
 Simon's hello world
 
-This is Simon, Business Analyst, 
+This is Simon, Business Analyst, in AsiaInspection.
 I am learning git!
